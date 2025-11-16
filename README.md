@@ -1,4 +1,4 @@
-🏙️ WringsCity — Online Manga Store (Frontend Only)
+🏙️ WringsCity — Online Manga Store (Frontend template Only)
 
 WringsCity is a modern and responsive manga e-commerce website built using HTML, CSS (Bootstrap 5), and minimal JavaScript.
 It allows users to browse, explore, and preview manga titles in a clean and engaging interface.
