@@ -2,7 +2,7 @@
 
 WringsCity is a modern and responsive manga e-commerce website built using HTML, CSS (Bootstrap 5), and minimal JavaScript.
 It allows users to browse, explore, and preview manga titles in a clean and engaging interface.
-This project focuses purely on the frontend UI with no backend functionality.
+This project focuses purely on the frontend UI with no backend functionality...
 
 🌐 Live Demo 
 
